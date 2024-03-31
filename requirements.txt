@@ -1,0 +1,5 @@
+matplotlib
+opencv_python
+patool
+requests
+scikit_learn
